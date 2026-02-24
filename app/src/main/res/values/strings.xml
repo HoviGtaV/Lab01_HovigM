@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab01_HovigM</string>
+    <string name="news_header">News</string>
+    <string name="news_icon_desc">News icon</string>
 </resources>
